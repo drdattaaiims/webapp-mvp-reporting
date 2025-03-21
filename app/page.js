@@ -196,7 +196,7 @@ export default function Home() {
                 <FaDollarSign />
               </div>
               <h3>Cost-Effective</h3>
-              <p>The industry's most cost-effective solution for radiology dictation.</p>
+              <p>The industry&apos;s most cost-effective solution for radiology dictation.</p>
             </div>
             
             <div className="feature-card">
@@ -298,8 +298,8 @@ export default function Home() {
                 />
                 <button type="submit">Join Now</button>
               </div>
-              {submitted && <p style={{ color: "var(--accent-primary)" }}>Thank you! We'll notify you with early access.</p>}
-              <p style={{ fontSize: "0.875rem" }}>We respect your privacy—no spam, ever.</p>
+              {submitted && <p style={{ color: "var(--accent-primary)" }}>Thank you! We&apos;ll notify you with early access.</p>}
+              <p style={{ fontSize: "0.875rem" }}>We respect your privacy&mdash;no spam, ever.</p>
             </form>
           </div>
         </div>
